@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img src="https://giphy.com/gifs/digitalpratik-jorrparivar-action-taker-khargosh-sM1hTbpTzULTaiK4K8" width="60px">
 
 <!--
 **DMITRII-RUS/DMITRII-RUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
