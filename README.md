@@ -9,9 +9,6 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 <!-- Трофеи -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DMITRII-RUS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Имитация уведомлений -->
-<img src="https://komarev.com/ghpvc/?username=DMITRII-RUS/&style=flat-square&color=blue" alt="Profile views"/>
-
 ### My languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
