@@ -9,10 +9,12 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 <!-- Трофеи -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DMITRII-RUS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 💻 Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,DRF,flask,docker,postgres,git" />
-</p>
+<!-- Имитация уведомлений -->
+<div align="center">
+  
+![Notification](https://user-images.githubusercontent.com/.../notification.gif)
+
+</div>
 
 ### My languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
