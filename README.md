@@ -1,4 +1,4 @@
-# Hi! <img src="https://media.tenor.com/OsjrMtlzRxsAAAAi/hi-om-nom.gif" width="60px">
+#  <img src="https://media.tenor.com/OsjrMtlzRxsAAAAi/hi-om-nom.gif" width="60px">
 
 ### ⭐ About Me
 My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallurgical calculations, engineering calculations, mathematical and computer modeling of chemical and technological systems, and software development.
