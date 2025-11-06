@@ -20,6 +20,8 @@ My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs
 ✅ SQLite
 
 ### My Socials
+<div align="center">
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/ChistiakovDG)
 [![VK](https://img.shields.io/badge/VK-%230077FF.svg?logo=vk&logoColor=white)](https://vk.com/chistyakovdmitriy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dmitry.chistyakovv@gmail.com)
+</div>
