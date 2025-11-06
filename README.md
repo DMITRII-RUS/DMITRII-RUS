@@ -1,10 +1,15 @@
-## Hi there 👋 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxb2tvMHR4NmJ6b2gxOXQ1OWFqZTI0ODRnYzNqdm5tMGg1YmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sM1hTbpTzULTaiK4K8/giphy.gif" width="60px">
+## Hi! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxb2tvMHR4NmJ6b2gxOXQ1OWFqZTI0ODRnYzNqdm5tMGg1YmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sM1hTbpTzULTaiK4K8/giphy.gif" width="60px">
 
-<!--
-**DMITRII-RUS/DMITRII-RUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ About Me
+My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs, perform engineering calcs, math and computer modeling of chemical and technological systems, and develop software.
+<!-- Статистика GitHub -->
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Самые используемые языки -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Трофеи -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
@@ -16,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->✅
