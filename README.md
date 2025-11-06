@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://giphy.com/gifs/digitalpratik-jorrparivar-action-taker-khargosh-sM1hTbpTzULTaiK4K8" width="60px">
+## Hi there 👋 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxb2tvMHR4NmJ6b2gxOXQ1OWFqZTI0ODRnYzNqdm5tMGg1YmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sM1hTbpTzULTaiK4K8/giphy.gif" width="60px">
 
 <!--
 **DMITRII-RUS/DMITRII-RUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
