@@ -2,8 +2,6 @@
 
 ## ⭐ About Me
 My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs, perform engineering calcs, math and computer modeling of chemical and technological systems, and develop software.
-<!-- Статистика GitHub -->
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMITRII-RUS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Самые используемые языки -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +9,16 @@ My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs
 <!-- Трофеи -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DMITRII-RUS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+### My languages
+⚡ Python
+✅ C#.NET / VB.NET
+
+### My Backend Development
+✅ Django
+✅ Flask
+
+### Database
+✅ SQLite
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->✅
+-->
