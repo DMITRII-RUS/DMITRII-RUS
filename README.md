@@ -1,5 +1,5 @@
 # Hi, friend! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxb2tvMHR4NmJ6b2gxOXQ1OWFqZTI0ODRnYzNqdm5tMGg1YmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sM1hTbpTzULTaiK4K8/giphy.gif" width="60px">
-
+![Snake animation](https://github.com/yourname/yourname/blob/output/github-contribution-grid-snake.svg)
 ### ⭐ About Me
 My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallurgical calculations, engineering calculations, mathematical and computer modeling of chemical and technological systems, and software development.
 
