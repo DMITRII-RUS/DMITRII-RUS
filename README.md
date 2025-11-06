@@ -1,4 +1,4 @@
-# Hi, friend! <img src="https://cdnl.iconscout.com/lottie/free/preview/free-github-logo-animation-gif-download-3463462.mp4" width="60px">
+# Hi, friend! <img src="https://media.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif" width="60px">
 
 ### ⭐ About Me
 My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallurgical calculations, engineering calculations, mathematical and computer modeling of chemical and technological systems, and software development.
