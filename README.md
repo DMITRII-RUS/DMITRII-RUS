@@ -16,10 +16,11 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
 ### My Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ### Database
-✅ SQLite
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 
 ### My Socials Networks
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/ChistiakovDG)
