@@ -1,7 +1,7 @@
 # Hi! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlxb2tvMHR4NmJ6b2gxOXQ1OWFqZTI0ODRnYzNqdm5tMGg1YmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sM1hTbpTzULTaiK4K8/giphy.gif" width="60px">
 
 ### ⭐ About Me
-My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs, perform engineering calcs, math and computer modeling of chemical and technological systems, and develop software.
+My name is Dmitrii Chistiakov. I perform chemical and metallurgical calculations, engineering calculations, mathematical and computer modeling of chemical and technological systems, and software development.
 
 <!-- Самые используемые языки -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
