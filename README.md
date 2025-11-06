@@ -10,8 +10,7 @@ My name is Dmitrii Chistiakov. I am engaged in chemical and metallurgical calсs
 [![trophy](https://github-profile-trophy.vercel.app/?username=DMITRII-RUS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My languages
-⚡ Python
-✅ C#.NET / VB.NET
+✅ Python ✅ VB.NET / VBA ✅ C#.NET
 
 ### My Backend Development
 ✅ Django
