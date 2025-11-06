@@ -10,7 +10,6 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 [![trophy](https://github-profile-trophy.vercel.app/?username=DMITRII-RUS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My languages
-✅ Python ✅ VB.NET / VBA ✅ C#.NET
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=.net&logoColor=white)
