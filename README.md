@@ -11,6 +11,13 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/DMITRII-RUS)
 
+<!-- Блок статистики -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMITRII-RUS&show_icons=true&theme=radical)](https://github.com/DMITRII-RUS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/DMITRII-RUS)
+
+<!-- Стрик -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DMITRII-RUS&theme=radical)](https://git.io/streak-stats)
+
 ### My languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
