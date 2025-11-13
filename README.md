@@ -7,7 +7,7 @@ My name is Dmitrii Chistiakov (Saint-Petersburg). I perform chemical and metallu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Трофеи -->
-[![DMITRII-RUS's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DMITRII-RUS&theme=redical)](https://github.com/DMITRII-RUS)
+[![Stats](https://github-readme-stats.vercel.app/api?username=DMITRII-RUS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/DMITRII-RUS)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMITRII-RUS&layout=compact&theme=radical)](https://github.com/DMITRII-RUS)
 
